@@ -81,7 +81,7 @@ RTL REALISATION OUTPUT
 
  ![wave experiment 1](https://github.com/user-attachments/assets/e47c0211-d949-4c77-befe-cacd3a031148)
 
-**Result:**
+### Result:
  Studied and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 
