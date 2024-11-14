@@ -1,4 +1,7 @@
 ### study-of-basic-gates
+NAME:SENTHIL ARUNACHALAM P
+
+REG NO:24900904
 
 **AIM:** 
 
@@ -64,16 +67,22 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![PROGRAM experiment 1](https://github.com/user-attachments/assets/9877efb7-dd48-4798-ae14-161aa97473c1)
 
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+
+![Truth Table](https://github.com/user-attachments/assets/90a8597b-e483-4c68-9123-f8f7339b0e13)
 
 **RTL realization Output:** 
 
+![wave experiment 1](https://github.com/user-attachments/assets/cbf628c4-cefe-487a-a13d-a2ba70328aea)
+
 **RTL**
 
+ ![logic gate experiment 1](https://github.com/user-attachments/assets/2c2d7614-706e-46a8-8d05-6e9c305304b8)
+
+
 **Result:**
+ Studied and verify the truth table of logic gates in Quartus II using Verilog programming.
 
 
