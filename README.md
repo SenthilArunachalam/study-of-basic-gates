@@ -79,8 +79,7 @@ RTL REALISATION OUTPUT
 
  TIMING DIAGRAM:
 
- ![timing diagram 1](https://github.com/user-attachments/assets/c8c55c9b-8d5b-4656-a939-6898d27ad7ab)
-
+ ![3333](https://github.com/user-attachments/assets/a5097069-b14f-44d0-9cf2-5234109bc180)
 
 ### Result:
  Studied and verify the truth table of logic gates in Quartus II using Verilog programming.
